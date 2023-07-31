@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @soulOfMoonMoon
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning how to make responsive websites with html, css and javascript
